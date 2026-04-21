@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from "react";
-import { socket } from '../socket';
+import { socket } from './socket';
 import Channels from "./components/Channels";
 import Users from "./components/Users";
 import Chat from "./components/Chat";
